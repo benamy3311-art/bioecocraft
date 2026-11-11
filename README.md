@@ -2,7 +2,7 @@
 
 Juego educativo de agroecología y bioeconomía regenerativa con Hempy.
 
-**Versión jugable: 0.8.2.**
+**Versión jugable: 0.8.4.**
 
 ## Jugar
 
